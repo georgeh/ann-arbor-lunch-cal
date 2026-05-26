@@ -7,9 +7,16 @@ X-WR-CALNAME:Summer Secondary Menu Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer Secondary Menu.
 BEGIN:VEVENT
 UID:summer-secondary-breakfast-2026-06-22@a2schools
-DTSTAMP:20260525T211223Z
+DTSTAMP:20260526T214733Z
 DTSTART;VALUE=DATE:20260622
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nSweet Potato Tots\nWhole Grain Waffle\nSyrup\nClassic Hamburger\nTater Tots\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Cheese Pizza\nCheese Stuffed Breadsticks\nMarinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nCraisins\nRaisins\nAssorted Chilled Fruit\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\n1% Low-fat Milk\nSkim Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-secondary-breakfast-2026-06-23@a2schools
+DTSTAMP:20260526T214733Z
+DTSTART;VALUE=DATE:20260623
+SUMMARY:Classic Hamburger
+DESCRIPTION:Full menu:\nSeasoned Beef Taco Meat\nChicken Tinga Street Tacos\nMexican Style Refried Beans\nFiesta Brown Rice\nTortilla Chips\nChile Cheese Sauce\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nFresh Sliced Red Onion\nPico de Gallo\nFresh Cilantro\nSalsa\nClassic Hamburger\nTater Tots\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nSliced Tomatoes\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Cheese Pizza\nCheese Stuffed Breadsticks\nMarinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nCraisins\nRaisins\nAssorted Chilled Fruit\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\n1% Low-fat Milk\nSkim Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce
 END:VEVENT
 END:VCALENDAR

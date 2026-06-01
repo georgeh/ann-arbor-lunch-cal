@@ -5,4 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Summer Bagged Meals Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer Bagged Meals.
+BEGIN:VEVENT
+UID:summer-breakfast-bagged-2026-06-29@a2schools
+DTSTAMP:20260601T223335Z
+DTSTART;VALUE=DATE:20260629
+SUMMARY:Cheese Stuffed Breadsticks
+DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nSunbutter & Grape Jelly Sandwich\nFresh Celery Sticks\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk
+END:VEVENT
 END:VCALENDAR

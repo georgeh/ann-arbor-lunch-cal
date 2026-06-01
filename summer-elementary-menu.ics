@@ -5,4 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Summer Elementary Menu Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer Elementary Menu.
+BEGIN:VEVENT
+UID:summer-elementary-menu-2026-06-29@a2schools
+DTSTAMP:20260601T223336Z
+DTSTART;VALUE=DATE:20260629
+SUMMARY:Buffalo Popcorn Chicken
+DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nSeasoned Broccoli\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nFresh Carrots\nFresh Grape Tomatoes\nFresh Whole Fruit\nCraisins\nRaisins
+END:VEVENT
 END:VCALENDAR

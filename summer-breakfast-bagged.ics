@@ -7,9 +7,16 @@ X-WR-CALNAME:Summer Bagged Meals Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer Bagged Meals.
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-06-29@a2schools
-DTSTAMP:20260601T223335Z
+DTSTAMP:20260602T222435Z
 DTSTART;VALUE=DATE:20260629
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nSunbutter & Grape Jelly Sandwich\nFresh Celery Sticks\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-breakfast-bagged-2026-06-30@a2schools
+DTSTAMP:20260602T222435Z
+DTSTART;VALUE=DATE:20260630
+SUMMARY:Nachos\, Cheese\, & Salsa Fun Lunch
+DESCRIPTION:Full menu:\nNachos\, Cheese\, & Salsa Fun Lunch\nSunbutter & Grape Jelly Sandwich\nSliced Cucumbers\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk
 END:VEVENT
 END:VCALENDAR

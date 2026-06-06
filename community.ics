@@ -6,29 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Community Lunch Menu
 X-WR-CALDESC:Lunch menus for Community.
 BEGIN:VEVENT
-UID:community-2026-06-04@a2schools
-DTSTAMP:20260604T214309Z
-DTSTART;VALUE=DATE:20260604
-SUMMARY:Cheese Stuffed Breadsticks
-DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
-END:VEVENT
-BEGIN:VEVENT
-UID:community-2026-06-05@a2schools
-DTSTAMP:20260604T214309Z
-DTSTART;VALUE=DATE:20260605
-SUMMARY:Classic Hamburger
-DESCRIPTION:Full menu:\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nRoasted Broccoli\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
-END:VEVENT
-BEGIN:VEVENT
 UID:community-2026-06-08@a2schools
-DTSTAMP:20260604T214309Z
+DTSTAMP:20260606T210738Z
 DTSTART;VALUE=DATE:20260608
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nCraisins\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Craisins\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-06-09@a2schools
-DTSTAMP:20260604T214309Z
+DTSTAMP:20260606T210738Z
 DTSTART;VALUE=DATE:20260609
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nCraisins\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Craisins\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce

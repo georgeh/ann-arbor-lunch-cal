@@ -6,29 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Lakewood Lunch Menu
 X-WR-CALDESC:Lunch menus for Lakewood.
 BEGIN:VEVENT
-UID:lakewood-2026-06-04@a2schools
-DTSTAMP:20260604T214311Z
-DTSTART;VALUE=DATE:20260604
-SUMMARY:Mini Turkey Corn Dogs
-DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nCrinkle Cut French Fries\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
-END:VEVENT
-BEGIN:VEVENT
-UID:lakewood-2026-06-05@a2schools
-DTSTAMP:20260604T214311Z
-DTSTART;VALUE=DATE:20260605
-SUMMARY:Cheese Stuffed Breadsticks
-DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
-END:VEVENT
-BEGIN:VEVENT
 UID:lakewood-2026-06-08@a2schools
-DTSTAMP:20260604T214311Z
+DTSTAMP:20260606T210743Z
 DTSTART;VALUE=DATE:20260608
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nBreadstick\nSeasoned Broccoli\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-06-09@a2schools
-DTSTAMP:20260604T214311Z
+DTSTAMP:20260606T210743Z
 DTSTART;VALUE=DATE:20260609
 SUMMARY:Roll\, Turkey Ham & Cheese Fun Lunch
 DESCRIPTION:Full menu:\nRoll\, Turkey Ham & Cheese Fun Lunch\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing

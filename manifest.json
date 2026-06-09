@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:51:39.982114Z",
+  "generated_at": "2026-06-09T21:49:16.941805Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -122,15 +122,15 @@
     },
     {
       "slug": "summer-breakfast-bagged",
-      "name": "Summer Bagged Meals"
+      "name": "Summer - Abbott"
     },
     {
       "slug": "summer-elementary-menu",
-      "name": "Summer Elementary Menu"
+      "name": "Summer Menu - Carpenter"
     },
     {
       "slug": "summer-secondary-breakfast",
-      "name": "Summer Secondary Menu"
+      "name": "Summer Menu - Tappan"
     },
     {
       "slug": "tappan",
@@ -139,10 +139,6 @@
     {
       "slug": "thurston",
       "name": "Thurston "
-    },
-    {
-      "slug": "westerman-preschool",
-      "name": "Westerman Preschool"
     },
     {
       "slug": "wines",

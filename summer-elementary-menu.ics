@@ -7,86 +7,93 @@ X-WR-CALNAME:Summer Menu - Carpenter Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer Menu - Carpenter.
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-06-22@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260622
 SUMMARY:Buffalo Popcorn Chicken
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nSeasoned Broccoli\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nFresh Carrots\nFresh Grape Tomatoes\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-06-23@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260623
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nBeef Taco Meat\nShredded Cheddar Cheese\nTortilla Chips\nMexican Style Refried Beans\nSunbutter & Grape Jelly Sandwich\nFresh Diced Tomatoes\nShredded Romaine Lettuce\nSour Cream\nFresh Celery Sticks\nFresh Green Peppers Strips\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-06-24@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260624
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nChicken Tenders\nStrawberry Topping\nWhole Grain Waffles\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nSeasoned Carrots\nFresh Broccoli Florets\nFresh Celery Sticks\nFresh Whole Fruit\nCraisins\nRaisins\nSyrup
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-06-25@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260625
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nMini Turkey Corn Dogs\nPretzel Rod\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nSweet Potato Fries\nSliced Cucumbers\nFresh Carrots\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-06-26@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260626
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nSunbutter & Grape Jelly Sandwich\nMarinara Sauce\nFresh Green Peppers Strips\nFresh Broccoli Florets\nFresh Whole Fruit\nCraisins\nRaisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-06-29@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260629
 SUMMARY:Whole Grain Cheese Tortellini Marinara
 DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Marinara\nSunbutter & Grape Jelly Sandwich\nSavory Green Beans\nFresh Carrots\nFresh Grape Tomatoes\nFresh Whole Fruit\nCraisins\nRaisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-06-30@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:Orange Sauce
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nOrange Sauce\nPopcorn Chicken\nVegetable Fried Rice\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nSeasoned Broccoli\nFresh Celery Sticks\nFresh Green Peppers Strips\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-01@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260701
 SUMMARY:Crispy Chicken Patty Sandwich
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nCrispy Chicken Patty Sandwich\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nTater Tots\nFresh Broccoli Florets\nFresh Celery Sticks\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-02@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260702
 SUMMARY:Chicken Sausage Patty
 DESCRIPTION:Full menu:\nChicken Sausage Patty\nCinnamon French Toast\nHash Brown Patty\nSunbutter & Grape Jelly Sandwich\nBlueberry Topping\nSliced Cucumbers\nFresh Carrots\nFresh Whole Fruit\nCraisins\nRaisins\nSyrup\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-03@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260703
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nCheesy French Bread Pizza\nSunbutter & Grape Jelly Sandwich\nSmall Caesar Salad\nFresh Green Peppers Strips\nFresh Broccoli Florets\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-06@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260706
 SUMMARY:Buffalo Popcorn Chicken
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nSeasoned Broccoli\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nFresh Carrots\nFresh Grape Tomatoes\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-07@a2schools
-DTSTAMP:20260609T214913Z
+DTSTAMP:20260610T220441Z
 DTSTART;VALUE=DATE:20260707
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nShredded Cheddar Cheese\nTortilla Chips\nMexican Style Refried Beans\nSunbutter & Grape Jelly Sandwich\nFresh Diced Tomatoes\nShredded Romaine Lettuce\nSour Cream\nFresh Celery Sticks\nFresh Green Peppers Strips\nFresh Whole Fruit\nCraisins\nRaisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-elementary-menu-2026-07-08@a2schools
+DTSTAMP:20260610T220441Z
+DTSTART;VALUE=DATE:20260708
+SUMMARY:Chicken Tenders
+DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nBBQ Sauce\nLight Italian Dressing\nLight Ranch Dressing\nChicken Tenders\nStrawberry Topping\nWhole Grain Waffles\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nSeasoned Carrots\nFresh Broccoli Florets\nFresh Celery Sticks\nFresh Whole Fruit\nCraisins\nRaisins\nSyrup
 END:VEVENT
 END:VCALENDAR

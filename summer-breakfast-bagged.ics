@@ -3,55 +3,62 @@ VERSION:2.0
 PRODID:-//a2schools-cal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Summer - Abbott Lunch Menu
-X-WR-CALDESC:Lunch menus for Summer - Abbott.
+X-WR-CALNAME:Summer - Abbot Lunch Menu
+X-WR-CALDESC:Lunch menus for Summer - Abbot.
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-06-29@a2schools
-DTSTAMP:20260609T214912Z
+DTSTAMP:20260610T220440Z
 DTSTART;VALUE=DATE:20260629
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nSunbutter & Grape Jelly Sandwich\nFresh Celery Sticks\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-06-30@a2schools
-DTSTAMP:20260609T214912Z
+DTSTAMP:20260610T220440Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:Nachos\, Cheese\, & Salsa Fun Lunch
 DESCRIPTION:Full menu:\nNachos\, Cheese\, & Salsa Fun Lunch\nSunbutter & Grape Jelly Sandwich\nSliced Cucumbers\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-01@a2schools
-DTSTAMP:20260609T214912Z
+DTSTAMP:20260610T220440Z
 DTSTART;VALUE=DATE:20260701
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nSunbutter & Grape Jelly Sandwich\nFresh Carrots\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing\nMustard Packet\nKetchup Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-02@a2schools
-DTSTAMP:20260609T214912Z
+DTSTAMP:20260610T220440Z
 DTSTART;VALUE=DATE:20260702
 SUMMARY:Turkey Sub
 DESCRIPTION:Full menu:\nTurkey Sub\nSunbutter & Grape Jelly Sandwich\nFresh Broccoli Florets\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing\nMustard Packet\nMayonnaise
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-03@a2schools
-DTSTAMP:20260609T214912Z
+DTSTAMP:20260610T220440Z
 DTSTART;VALUE=DATE:20260703
 SUMMARY:Muffin\, Goldfish & Yogurt Fun Lunch
 DESCRIPTION:Full menu:\nMuffin\, Goldfish & Yogurt Fun Lunch\nSunbutter & Grape Jelly Sandwich\nFresh Grape Tomatoes\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-06@a2schools
-DTSTAMP:20260609T214912Z
+DTSTAMP:20260610T220440Z
 DTSTART;VALUE=DATE:20260706
 SUMMARY:American Cheese
 DESCRIPTION:Full menu:\nAmerican Cheese\nClassic Hamburger\nSunbutter & Grape Jelly Sandwich\nFresh Celery Sticks\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing\nMustard Packet\nKetchup Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-07@a2schools
-DTSTAMP:20260609T214912Z
+DTSTAMP:20260610T220440Z
 DTSTART;VALUE=DATE:20260707
 SUMMARY:Nachos\, Cheese\, & Salsa Fun Lunch
 DESCRIPTION:Full menu:\nNachos\, Cheese\, & Salsa Fun Lunch\nSunbutter & Grape Jelly Sandwich\nSliced Cucumbers\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-breakfast-bagged-2026-07-08@a2schools
+DTSTAMP:20260610T220440Z
+DTSTART;VALUE=DATE:20260708
+SUMMARY:Chicken Nuggets
+DESCRIPTION:Full menu:\nChicken Nuggets\nPretzel Rod\nSunbutter & Grape Jelly Sandwich\nFresh Carrots\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing\nMustard Packet
 END:VEVENT
 END:VCALENDAR

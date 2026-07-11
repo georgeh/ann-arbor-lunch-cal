@@ -6,43 +6,36 @@ METHOD:PUBLISH
 X-WR-CALNAME:Summer Menu - Carpenter Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer Menu - Carpenter.
 BEGIN:VEVENT
-UID:summer-elementary-menu-2026-07-10@a2schools
-DTSTAMP:20260710T210751Z
-DTSTART;VALUE=DATE:20260710
-SUMMARY:Cheese Stuffed Breadsticks
-DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nLight Ranch Dressing\nBBQ Sauce\nCheese Stuffed Breadsticks\nSunbutter & Grape Jelly Sandwich\nMarinara Sauce\nFresh Green Peppers Strips\nFresh Broccoli Florets\nFresh Whole Fruit\nCraisins\nRaisins
-END:VEVENT
-BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-13@a2schools
-DTSTAMP:20260710T210751Z
+DTSTAMP:20260711T205244Z
 DTSTART;VALUE=DATE:20260713
 SUMMARY:Whole Grain Cheese Tortellini Marinara
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nLight Ranch Dressing\nBBQ Sauce\nWhole Grain Cheese Tortellini Marinara\nSunbutter & Grape Jelly Sandwich\nSavory Green Beans\nFresh Carrots\nFresh Grape Tomatoes\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-14@a2schools
-DTSTAMP:20260710T210751Z
+DTSTAMP:20260711T205244Z
 DTSTART;VALUE=DATE:20260714
 SUMMARY:Orange Sauce
 DESCRIPTION:Full menu:\nOrange Sauce\nPopcorn Chicken\nVegetable Fried Rice\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nSeasoned Broccoli\nFresh Celery Sticks\nFresh Green Peppers Strips\nFresh Whole Fruit\nCraisins\nRaisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-15@a2schools
-DTSTAMP:20260710T210751Z
+DTSTAMP:20260711T205244Z
 DTSTART;VALUE=DATE:20260715
 SUMMARY:Crispy Chicken Patty Sandwich
 DESCRIPTION:Full menu:\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nLight Ranch Dressing\nBBQ Sauce\nCrispy Chicken Patty Sandwich\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nTater Tots\nFresh Broccoli Florets\nFresh Celery Sticks\nFresh Whole Fruit\nCraisins\nRaisins
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-16@a2schools
-DTSTAMP:20260710T210751Z
+DTSTAMP:20260711T205244Z
 DTSTART;VALUE=DATE:20260716
 SUMMARY:Cinnamon French Toast
 DESCRIPTION:Full menu:\nCinnamon French Toast\nHash Brown Patty\nSunbutter & Grape Jelly Sandwich\nSliced Cucumbers\nFresh Carrots\nFresh Whole Fruit\nCraisins\nRaisins\nSyrup\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-elementary-menu-2026-07-17@a2schools
-DTSTAMP:20260710T210751Z
+DTSTAMP:20260711T205244Z
 DTSTART;VALUE=DATE:20260717
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nSunbutter & Grape Jelly Sandwich\nSmall Caesar Salad\nFresh Green Peppers Strips\nFresh Broccoli Florets\nFresh Whole Fruit\nCraisins\nRaisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nLight Ranch Dressing\nBBQ Sauce

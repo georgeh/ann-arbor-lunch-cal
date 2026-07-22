@@ -6,50 +6,43 @@ METHOD:PUBLISH
 X-WR-CALNAME:Summer - Abbot Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer - Abbot.
 BEGIN:VEVENT
-UID:summer-breakfast-bagged-2026-07-21@a2schools
-DTSTAMP:20260721T211309Z
-DTSTART;VALUE=DATE:20260721
-SUMMARY:Baked Tortilla Chip Scoops
-DESCRIPTION:Full menu:\nBaked Tortilla Chip Scoops\nNachos\, Cheese\, & Salsa Fun Lunch\nUltimate Cheddar Cheese Dip Cups\nSunbutter & Grape Jelly Sandwich\nSliced Cucumbers\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing
-END:VEVENT
-BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-22@a2schools
-DTSTAMP:20260721T211309Z
+DTSTAMP:20260722T211135Z
 DTSTART;VALUE=DATE:20260722
 SUMMARY:Chicken Nuggets
 DESCRIPTION:Full menu:\nChicken Nuggets\nPretzel Rod\nSunbutter & Grape Jelly Sandwich\nFresh Carrots\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing\nMustard Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-23@a2schools
-DTSTAMP:20260721T211309Z
+DTSTAMP:20260722T211135Z
 DTSTART;VALUE=DATE:20260723
 SUMMARY:Pizza Bagel Fun Lunch
 DESCRIPTION:Full menu:\nPizza Bagel Fun Lunch\nSunbutter & Grape Jelly Sandwich\nFresh Broccoli Florets\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-27@a2schools
-DTSTAMP:20260721T211309Z
+DTSTAMP:20260722T211135Z
 DTSTART;VALUE=DATE:20260727
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSunbutter & Grape Jelly Sandwich\nFresh Celery Sticks\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-28@a2schools
-DTSTAMP:20260721T211309Z
+DTSTAMP:20260722T211135Z
 DTSTART;VALUE=DATE:20260728
 SUMMARY:Baked Tortilla Chip Scoops
 DESCRIPTION:Full menu:\nBaked Tortilla Chip Scoops\nNachos\, Cheese\, & Salsa Fun Lunch\nUltimate Cheddar Cheese Dip Cups\nSunbutter & Grape Jelly Sandwich\nSliced Cucumbers\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-29@a2schools
-DTSTAMP:20260721T211309Z
+DTSTAMP:20260722T211135Z
 DTSTART;VALUE=DATE:20260729
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nSunbutter & Grape Jelly Sandwich\nFresh Carrots\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing\nMustard Packet\nKetchup Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-breakfast-bagged-2026-07-30@a2schools
-DTSTAMP:20260721T211309Z
+DTSTAMP:20260722T211135Z
 DTSTART;VALUE=DATE:20260730
 SUMMARY:Turkey Sandwich
 DESCRIPTION:Full menu:\nTurkey Sandwich\nSunbutter & Grape Jelly Sandwich\nFresh Broccoli Florets\nFresh Whole Fruit\nWhole Grain Cheez-It Crackers\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nRanch Dressing\nMustard Packet\nMayonnaise

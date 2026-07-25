@@ -5,11 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Summer Menu - Tappan Lunch Menu
 X-WR-CALDESC:Lunch menus for Summer Menu - Tappan.
-BEGIN:VEVENT
-UID:summer-secondary-breakfast-2026-07-24@a2schools
-DTSTAMP:20260724T210639Z
-DTSTART;VALUE=DATE:20260724
-SUMMARY:Classic Hamburger
-DESCRIPTION:Full menu:\nClassic Hamburger\nTater Tots\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Cheese Pizza\nCheese Stuffed Breadsticks\nMarinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nCraisins\nRaisins\nAssorted Chilled Fruit\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\n1% Low-fat Milk\nSkim Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce
-END:VEVENT
 END:VCALENDAR

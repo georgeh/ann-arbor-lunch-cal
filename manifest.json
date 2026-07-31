@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T21:12:48.642204Z",
+  "generated_at": "2026-07-31T21:08:10.828279Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -119,10 +119,6 @@
     {
       "slug": "slauson",
       "name": "Slauson"
-    },
-    {
-      "slug": "summer-breakfast-bagged",
-      "name": "Summer - Abbot"
     },
     {
       "slug": "tappan",

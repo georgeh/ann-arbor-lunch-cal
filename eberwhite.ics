@@ -5,4 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Eberwhite Lunch Menu
 X-WR-CALDESC:Lunch menus for Eberwhite.
+BEGIN:VEVENT
+UID:eberwhite-2026-08-31@a2schools
+DTSTAMP:20260803T210540Z
+DTSTART;VALUE=DATE:20260831
+SUMMARY:Turkey Sandwich
+DESCRIPTION:Full menu:\nTurkey Sandwich\nSliced Cheddar Cheese\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nRaisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup Packet\nMayonnaise\nMustard Packet
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Skyline Lunch Menu
 X-WR-CALDESC:Lunch menus for Skyline.
+BEGIN:VEVENT
+UID:skyline-2026-08-31@a2schools
+DTSTAMP:20260803T210604Z
+DTSTART;VALUE=DATE:20260831
+SUMMARY:Hamburger and Tater Tots
+DESCRIPTION:Full menu:\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nFresh Carrots\nFresh Broccoli Florets\nFresh Whole Fruit\nRaisins\n1% Low-fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
+END:VEVENT
 END:VCALENDAR

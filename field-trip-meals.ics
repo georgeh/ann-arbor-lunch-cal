@@ -5,4 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Field Trip Meals Lunch Menu
 X-WR-CALDESC:Lunch menus for Field Trip Meals.
+BEGIN:VEVENT
+UID:field-trip-meals-2026-08-31@a2schools
+DTSTAMP:20260803T210541Z
+DTSTART;VALUE=DATE:20260831
+SUMMARY:Muffin\, Goldfish & Yogurt Fun Lunch
+DESCRIPTION:Full menu:\nMuffin\, Goldfish & Yogurt Fun Lunch\nCheddar Goldfish Crackers\nFresh Carrots\nFresh Whole Fruit\nRaisins\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
+END:VEVENT
 END:VCALENDAR

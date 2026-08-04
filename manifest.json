@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:06:12.599156Z",
+  "generated_at": "2026-08-04T21:16:04.160265Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -91,6 +91,10 @@
     {
       "slug": "mitchell",
       "name": "Mitchell"
+    },
+    {
+      "slug": "pathways",
+      "name": "Pathways"
     },
     {
       "slug": "pattengill",

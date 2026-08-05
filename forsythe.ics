@@ -7,16 +7,23 @@ X-WR-CALNAME:Forsythe Lunch Menu
 X-WR-CALDESC:Lunch menus for Forsythe.
 BEGIN:VEVENT
 UID:forsythe-2026-08-31@a2schools
-DTSTAMP:20260804T211537Z
+DTSTAMP:20260805T211303Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Hamburger and Tater Tots
 DESCRIPTION:Full menu:\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\n1% Low-fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:forsythe-2026-09-01@a2schools
-DTSTAMP:20260804T211537Z
+DTSTAMP:20260805T211303Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Seasoned Beef Taco Meat
 DESCRIPTION:Full menu:\nSeasoned Beef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nOptions: Lettuce\, Tomatoes\, Cilantro\, Onions\nMexican Style Refried Beans\nFiesta Brown Rice\nSalsa\nPico de Gallo\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\n1% Low-fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
+END:VEVENT
+BEGIN:VEVENT
+UID:forsythe-2026-09-02@a2schools
+DTSTAMP:20260805T211303Z
+DTSTART;VALUE=DATE:20260902
+SUMMARY:Hamburger and Tater Tots
+DESCRIPTION:Full menu:\nPulled Pork\nHomemade Carribbean BBQ Sauce\nWhole Grain Garlic Texas Toast\nOption: Green Onions and/or Jalapeno\nGarlic-Parmesan Roasted Potatoes\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\n1% Low-fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 END:VCALENDAR

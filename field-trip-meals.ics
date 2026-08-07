@@ -7,23 +7,30 @@ X-WR-CALNAME:Field Trip Meals Lunch Menu
 X-WR-CALDESC:Lunch menus for Field Trip Meals.
 BEGIN:VEVENT
 UID:field-trip-meals-2026-08-31@a2schools
-DTSTAMP:20260805T211301Z
+DTSTAMP:20260807T005313Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Muffin\, Goldfish & Yogurt Fun Lunch
 DESCRIPTION:Full menu:\nMuffin\, Goldfish & Yogurt Fun Lunch\nCheddar Goldfish Crackers\nFresh Carrots\nFresh Whole Fruit\nRaisins\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:field-trip-meals-2026-09-01@a2schools
-DTSTAMP:20260805T211301Z
+DTSTAMP:20260807T005313Z
 DTSTART;VALUE=DATE:20260901
-SUMMARY:Turkey and Cheese Sandwich
-DESCRIPTION:Full menu:\nTurkey and Cheese Sandwich\nMayonnaise\nMustard Packet\nCheddar Goldfish Crackers\nFresh Broccoli Florets\nFresh Whole Fruit\nRaisins\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
+SUMMARY:Turkey Sandwich
+DESCRIPTION:Full menu:\nTurkey Sandwich\nMayonnaise\nMustard Packet\nCheddar Goldfish Crackers\nFresh Broccoli Florets\nFresh Whole Fruit\nRaisins\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:field-trip-meals-2026-09-02@a2schools
-DTSTAMP:20260805T211301Z
+DTSTAMP:20260807T005313Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Sunbutter & Grape Jelly Sandwich
 DESCRIPTION:Full menu:\nSunbutter & Grape Jelly Sandwich\nCheddar Goldfish Crackers\nFresh Celery Sticks\nFresh Whole Fruit\nRaisins\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
+END:VEVENT
+BEGIN:VEVENT
+UID:field-trip-meals-2026-09-03@a2schools
+DTSTAMP:20260807T005313Z
+DTSTART;VALUE=DATE:20260903
+SUMMARY:Muffin\, Goldfish & Yogurt Fun Lunch
+DESCRIPTION:Full menu:\nMuffin\, Goldfish & Yogurt Fun Lunch\nCheddar Goldfish Crackers\nFresh Carrots\nFresh Whole Fruit\nRaisins\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
 END:VEVENT
 END:VCALENDAR

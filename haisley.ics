@@ -7,28 +7,28 @@ X-WR-CALNAME:Haisley Lunch Menu
 X-WR-CALDESC:Lunch menus for Haisley.
 BEGIN:VEVENT
 UID:haisley-2026-08-31@a2schools
-DTSTAMP:20260809T203520Z
+DTSTAMP:20260810T204446Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Turkey Sandwich
 DESCRIPTION:Full menu:\nTurkey Sandwich\nSliced Cheddar Cheese\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nRaisins\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup Packet\nMayonnaise\nMustard Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-09-01@a2schools
-DTSTAMP:20260809T203520Z
+DTSTAMP:20260810T204446Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-09-02@a2schools
-DTSTAMP:20260809T203520Z
+DTSTAMP:20260810T204446Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Whole Grain Cheese Tortellini Marinara
 DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Marinara\nBreadstick\nSeasoned Carrots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-09-03@a2schools
-DTSTAMP:20260809T203520Z
+DTSTAMP:20260810T204446Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nYellow Whole Grain Rice\nCurry Sauce\nSeasoned Peas\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce

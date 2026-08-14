@@ -7,51 +7,58 @@ X-WR-CALNAME:Wines Lunch Menu
 X-WR-CALDESC:Lunch menus for Wines.
 BEGIN:VEVENT
 UID:wines-2026-08-31@a2schools
-DTSTAMP:20260813T204638Z
+DTSTAMP:20260814T203311Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Turkey Sandwich
 DESCRIPTION:Full menu:\nTurkey Sandwich\nSliced Cheddar Cheese\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nRaisins\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup Packet\nMayonnaise\nMustard Packet
 END:VEVENT
 BEGIN:VEVENT
 UID:wines-2026-09-01@a2schools
-DTSTAMP:20260813T204638Z
+DTSTAMP:20260814T203311Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:wines-2026-09-02@a2schools
-DTSTAMP:20260813T204638Z
+DTSTAMP:20260814T203311Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Whole Grain Cheese Tortellini Marinara
 DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Marinara\nBreadstick\nSeasoned Carrots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:wines-2026-09-03@a2schools
-DTSTAMP:20260813T204638Z
+DTSTAMP:20260814T203311Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nYellow Whole Grain Rice\nCurry Sauce\nSeasoned Peas\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:wines-2026-09-08@a2schools
-DTSTAMP:20260813T204638Z
+DTSTAMP:20260814T203311Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:wines-2026-09-09@a2schools
-DTSTAMP:20260813T204638Z
+DTSTAMP:20260814T203311Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Crispy Chicken Patty Sandwich
 DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nShredded Lettuce\nSliced Tomatoes\nMustard Packet\nTater Tots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:wines-2026-09-10@a2schools
-DTSTAMP:20260813T204638Z
+DTSTAMP:20260814T203311Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Cinnamon French Toast
 DESCRIPTION:Full menu:\nCinnamon French Toast\nStrawberries\nSyrup\nHash Brown Patty\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:wines-2026-09-11@a2schools
+DTSTAMP:20260814T203311Z
+DTSTART;VALUE=DATE:20260911
+SUMMARY:Cheesy French Bread Pizza
+DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nCheddar Goldfish Crackers\nSmall Caesar Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 END:VCALENDAR

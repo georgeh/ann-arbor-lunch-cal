@@ -6,129 +6,129 @@ METHOD:PUBLISH
 X-WR-CALNAME:Ann Arbor STEAM Lunch Menu
 X-WR-CALDESC:Lunch menus for Ann Arbor STEAM.
 BEGIN:VEVENT
-UID:ann-arbor-steam-2026-09-02@a2schools
-DTSTAMP:20260902T222643Z
-DTSTART;VALUE=DATE:20260902
-SUMMARY:Whole Grain Cheese Tortellini Marinara
-DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Marinara\nBreadstick\nSeasoned Carrots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
-END:VEVENT
-BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-03@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nYellow Whole Grain Rice\nCurry Sauce\nSeasoned Peas\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-08@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-09@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Crispy Chicken Patty Sandwich
 DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nShredded Lettuce\nSliced Tomatoes\nMustard Packet\nTater Tots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-10@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Cinnamon French Toast
 DESCRIPTION:Full menu:\nCinnamon French Toast\nStrawberries\nSyrup\nHash Brown Patty\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-11@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260911
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nCheddar Goldfish Crackers\nSmall Caesar Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-14@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260914
 SUMMARY:Mini Cheese Ravioli Alfredo
 DESCRIPTION:Full menu:\nMini Cheese Ravioli Alfredo\nBreadstick\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-15@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-16@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nBrown Rice\nSweet & Sour Sauce\nPeas and Carrots\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-17@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Beef Hot Dog on Whole Wheat
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat\nMustard Packet\nCrinkle Cut French Fries\nImpossible Burger\nShredded Lettuce\nSliced Tomatoes\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-18@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260918
 SUMMARY:Personal Cheese Pizza
 DESCRIPTION:Full menu:\nPersonal Cheese Pizza\nCheddar Goldfish Crackers\nCumin Cauliflower\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-21@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260921
 SUMMARY:Baked Potato with Chicken and Cheese
 DESCRIPTION:Full menu:\nPretzel Rod\nBaked Potato with Chicken and Cheese\nSeasoned Broccoli\nBaked Potato with Vegan Nuggets and Cheese\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-22@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nRoasted Cilantro-Lime Vegetables\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-23@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260923
 SUMMARY:Grilled Cheese Sandwich
 DESCRIPTION:Full menu:\nGrilled Cheese Sandwich\nCampbell's Tomato Soup\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-24@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffle\nSyrup\nTater Tots\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-25@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260925
 SUMMARY:Cheesy Italian Pull Apart
 DESCRIPTION:Full menu:\nCheesy Italian Pull Apart\nCheddar Goldfish Crackers\nSide Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-29@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:ann-arbor-steam-2026-09-30@a2schools
-DTSTAMP:20260902T222643Z
+DTSTAMP:20260903T222402Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Whole Grain Cheese Tortellini Marinara
 DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Marinara\nBreadstick\nSeasoned Carrots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:ann-arbor-steam-2026-10-01@a2schools
+DTSTAMP:20260903T222402Z
+DTSTART;VALUE=DATE:20261001
+SUMMARY:Mini Turkey Corn Dogs
+DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nMustard Packet\nCrinkle Cut French Fries\nCorn Salad with Ranch\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nLow Fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nKetchup\nLight Italian Dressing\nBuffalo Ranch Sauce\nLight Ranch Dressing\nBBQ Sauce
 END:VEVENT
 END:VCALENDAR

@@ -6,129 +6,129 @@ METHOD:PUBLISH
 X-WR-CALNAME:Tappan Lunch Menu
 X-WR-CALDESC:Lunch menus for Tappan.
 BEGIN:VEVENT
-UID:tappan-2026-09-21@a2schools
-DTSTAMP:20260921T230353Z
-DTSTART;VALUE=DATE:20260921
-SUMMARY:Hamburger and Tater Tots
-DESCRIPTION:Full menu:\nArroz con Pollo\nPico de Gallo\nTortilla Chips\nElotes Style Corn with Chili\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
-END:VEVENT
-BEGIN:VEVENT
 UID:tappan-2026-09-22@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Seasoned Beef Taco Meat
 DESCRIPTION:Full menu:\nSeasoned Beef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nOptions: Lettuce\, Tomatoes\, Cilantro\, Onions\nMexican Style Refried Beans\nFiesta Brown Rice\nSalsa\nPico de Gallo\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-09-23@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20260923
 SUMMARY:Toasty Three Cheese Sandwich
 DESCRIPTION:Full menu:\nToasty Three Cheese Sandwich\nCheddar Goldfish Crackers\nCampbell's Tomato Soup\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-09-24@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Hamburger and Tater Tots
 DESCRIPTION:Full menu:\nCrispy Chicken Tenders\nWhole Grain Waffle\nOption: Strawberries and Syrup\nHash Brown Patty\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-09-25@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20260925
 SUMMARY:Chicken Pasta Alfredo
 DESCRIPTION:Full menu:\nChicken Pasta Alfredo\nGarlic Breadstick\nBalsamic & Rosemary Roasted Tomatoes\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-09-29@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Seasoned Beef Taco Meat
 DESCRIPTION:Full menu:\nSeasoned Beef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nOptions: Lettuce\, Tomatoes\, Cilantro\, Onions\nMexican Style Refried Beans\nFiesta Brown Rice\nSalsa\nPico de Gallo\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-09-30@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Hamburger and Tater Tots
 DESCRIPTION:Full menu:\nPulled Pork\nHomemade Carribbean BBQ Sauce\nWhole Grain Garlic Texas Toast\nOption: Green Onions and/or Jalapeno\nGarlic-Parmesan Roasted Potatoes\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-01@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Hamburger and Tater Tots
 DESCRIPTION:Full menu:\nEgg with Optional Parsley\nOption: Apple and Syrup\nPancakes\nSweet Potato Tots\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-02@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261002
 SUMMARY:Hamburger and Tater Tots
 DESCRIPTION:Full menu:\nPopcorn Chicken\nGeneral Tso Sauce\nGarlic Fried Rice (Sinangag)\nFresh Green Onions\nSteamed Broccoli Florets\nHamburger and Tater Tots\nHamburger and WG Onion Rings\nCheeseburger and WG Onion Rings\nToppings (Lettuce\, Onion\, Tomato)\nCheeseburger and Tater Tots\nThousand Island Dressing\nSpicy Chicken Patty and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-05@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261005
 SUMMARY:Chicken & Cheese Quesadilla
 DESCRIPTION:Full menu:\nChicken & Cheese Quesadilla\nOption: Guacamole or Pico de Gallo\nBuffalo Sauce\nElotes Style Corn with Chili\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-06@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261006
 SUMMARY:Seasoned Beef Taco Meat
 DESCRIPTION:Full menu:\nSeasoned Beef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nOptions: Lettuce\, Tomatoes\, Cilantro\, Onions\nMexican Style Refried Beans\nFiesta Brown Rice\nSalsa\nPico de Gallo\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-07@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261007
 SUMMARY:Mummy Hot Dog
 DESCRIPTION:Full menu:\nMummy Hot Dog\nApple Cranberry Crisp\nSweet Potato Tots\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-08@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Teriyaki Pineapple Chicken Sandwich
 DESCRIPTION:Full menu:\nTeriyaki Pineapple Chicken Sandwich\nGarlic-Parmesan Roasted Potatoes\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-13@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261013
 SUMMARY:Seasoned Beef Taco Meat
 DESCRIPTION:Full menu:\nSeasoned Beef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nOptions: Lettuce\, Tomatoes\, Cilantro\, Onions\nMexican Style Refried Beans\nFiesta Brown Rice\nSalsa\nPico de Gallo\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-14@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261014
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nBuffalo Popcorn Chicken\nSmall Caesar Salad\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-15@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261015
 SUMMARY:Cinnamon French Toast
 DESCRIPTION:Full menu:\nCinnamon French Toast\nTurkey Sausage Link\nOption: Blueberry and Syrup\nHash Brown Patty\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-16@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261016
 SUMMARY:Hamburger and Tater Tots
 DESCRIPTION:Full menu:\nBreaded Chicken Drumstick\nJamaican Mango Jerk Sauce\nRice and Beans with Ham\nBBQ Baked Beans\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-10-19@a2schools
-DTSTAMP:20260921T230353Z
+DTSTAMP:20260922T224925Z
 DTSTART;VALUE=DATE:20261019
 SUMMARY:Hamburger and Tater Tots
 DESCRIPTION:Full menu:\nArroz con Pollo\nPico de Gallo\nTortilla Chips\nElotes Style Corn with Chili\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
+END:VEVENT
+BEGIN:VEVENT
+UID:tappan-2026-10-20@a2schools
+DTSTAMP:20260922T224925Z
+DTSTART;VALUE=DATE:20261020
+SUMMARY:Seasoned Beef Taco Meat
+DESCRIPTION:Full menu:\nSeasoned Beef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nOptions: Lettuce\, Tomatoes\, Cilantro\, Onions\nMexican Style Refried Beans\nFiesta Brown Rice\nSalsa\nPico de Gallo\nHamburger and Tater Tots\nVegan Nuggets\, Pretzel Rods and Tater Tots\nCheeseburger and Tater Tots\nSpicy Chicken Patty and Tater Tots\nSpicy Chicken Tenders with Pretzel Rods and Tater Tots\nToppings (Lettuce\, Onion\, Tomato)\nThousand Island Dressing\nHoney-Lime Buffalo Sauce\nHomemade Signature Sauce\nSweet Thai Chili Sauce\nHomemade Chipotle Citrus BBQ Sauce\nBuffalo Sauce\nClassic Cheese Pizza\nPizza Shakers (Roma\, Garlic and Hot Pepper Flakes)\nClassic Pepperoni Pizza\nCheese Stuffed Breadstick with Marinara Sauce\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nBerry Parfait with Granola\nShredded Romaine Lettuce\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nRaisins\nLight Italian Dressing\nLight Ranch Dressing\nSweet Mustard Dressing\nLow Fat Milk\nStrawberry Low Fat Milk\nLactose Free Low Fat Milk\nChocolate Low Fat Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce\nMayonnaise\nFresh Parsley
 END:VEVENT
 END:VCALENDAR

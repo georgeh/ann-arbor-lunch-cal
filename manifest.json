@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:13:28.218625Z",
+  "generated_at": "2026-10-06T23:39:07.868721Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -139,6 +139,10 @@
     {
       "slug": "elementary-test-menu-not-an-active-menu",
       "name": "Z_Elementary Menus (test Menu - not a menu)"
+    },
+    {
+      "slug": "community-test-menu-not-an-active-menu",
+      "name": "Z_ High School Menu (Not an Active Menu)"
     }
   ]
 }

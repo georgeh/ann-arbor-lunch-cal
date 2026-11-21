@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:41:43.018898Z",
+  "generated_at": "2026-11-21T01:10:00.823712Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -139,14 +139,6 @@
     {
       "slug": "winter-survival",
       "name": "Winter Survival"
-    },
-    {
-      "slug": "elementary-test-menu-not-an-active-menu",
-      "name": "Z_Elem"
-    },
-    {
-      "slug": "community-test-menu-not-an-active-menu",
-      "name": "Z_ HS"
     }
   ]
 }
